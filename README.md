@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ermertP
+- 👋 Hi, I’m Phoebe
 - 👀 I’m interested in software engineering, mountain biking, cooking, video games, and learning new things! 
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on any type of project! 
