@@ -1,5 +1,5 @@
 - Hey there! I'm Phoebe!
-- I'm currently pursuing a degree in computer science.
+- I'm a biologist currently pursuing a degree in computer science.
 - Check out my github to look at some python projects I've worked on!
 
 
